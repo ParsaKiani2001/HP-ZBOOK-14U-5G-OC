@@ -12,6 +12,8 @@ touchpad </br>
 touchscreen</br>
 keyboard whit fn keys</br>
 ethernet</br>
+usb3</br>
+usb2</br>
 
 <h2 style="color:red;" >not working</h2>
 IR HD CAMERA (seem hard)</br>
