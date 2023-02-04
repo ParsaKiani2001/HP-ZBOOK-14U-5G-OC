@@ -1,4 +1,4 @@
-<h1> HP ZBOOK 14U 5G OC HACINTOSH VENTURA </h1> 
+<h1> HP ZBOOK 14U 5G OC HACKINTOSH VENTURA </h1> 
 <h2 style="color:0#00cc00;background-color:blue;">Open Core</h2>
 <h2 style="color:green;background-color:green;">worked</h2> 
 Graphic Intel UHD620</br>
